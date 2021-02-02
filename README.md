@@ -5,4 +5,5 @@ Darkseas - bodyguard <br/>
 /enemy -> "/enemy" yazarak bir düşman ped çıkartırsınız.<br/><br/>
 /mypeds -> "/mypeds" yazarsanız koruyucu pedlerinizin sayısını, sağlığını, armorunu görürsünüz (F8 basarak). Ayrıca mermi, can ve armorunu fullemektedir.<br/><br/>
 /clearMyPeds -> "/clearMyPeds" yazarak çıkardığınız koruyucu pedleri silersiniz.<br/><br/>
-/clearEnemyPeds -> "/clearEnemyPeds" yazarak çıkardığınız enemy pedleri silersiniz.
+/clearEnemyPeds -> "/clearEnemyPeds" yazarak çıkardığınız enemy pedleri silersiniz.<br/><br/>
+Not: Yazmış olduğum kodun build edilmiş haline inanmayan veya güvenmeyen kişiler içinde sourcecode içinde c# kodunu paylaşmış bulunmaktayım. O dosyayı indirip build edip direkt olarak sunucuya atıp scripti çalıştırabilirler. Fakat CitizenFX.Core kütüphanesini eklemeniz gerekmektedir.
