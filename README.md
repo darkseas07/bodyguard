@@ -8,7 +8,7 @@ Darkseas - bodyguard <br/>
 - <b><i>/clearMyPeds</b></i> -> <i>"/clearMyPeds"</i> yazarak çıkardığınız koruyucu pedleri silersiniz.
 - <b><i>/clearEnemyPeds</b></i> -> <i>"/clearEnemyPeds"</i> yazarak çıkardığınız enemy pedleri silersiniz.
 
-Not: Yazmış olduğum kodun build edilmiş haline inanmayan veya güvenmeyen kişiler içinde sourcecode içinde c# kodunu paylaşmış bulunmaktayım. O dosyayı indirip build edip direkt olarak sunucuya atıp scripti çalıştırabilirler. Fakat CitizenFX.Core kütüphanesini eklemeniz gerekmektedir.
+Not: Yazmış olduğum kodun build edilmiş haline inanmayan veya güvenmeyen kişiler içinde sourcecode içinde C# kodunu paylaşmış bulunmaktayım. O dosyayı indirip build edip direkt olarak sunucuya atıp scripti çalıştırabilirler. Fakat CitizenFX.Core kütüphanesini eklemeniz gerekmektedir.
 
 <b>Bug ve görüşleriniz için yazabilirsiniz.</b>
 
