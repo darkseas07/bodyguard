@@ -3,10 +3,10 @@ Darkseas - bodyguard <br/>
 
 <b>[TR]</b> <br/>
 - <b><i>/bodyguard</b></i> -> <i>"/bodyguard"</i> yazarak kendinize bir koruyucu ped çıkartırsınız. Bir ped/player'a nişan alıp "X" tuşuna basarsanız o kişiye saldıracaktır. <b>"H"</b> tuşuna basarsanız ise saldırmayı durdurur. Maximum her oyuncu 7 tane koruyucu ped çıkartabilir. 7'den sonrası grubunuza dahil olmadığı için max grup kişi sayısı 7 olabiliyor.
-- /enemy -> <i>"/enemy"</i> yazarak bir düşman ped çıkartırsınız.
-- /mypeds -> <i>"/mypeds"</i> yazarsanız koruyucu pedlerinizin sayısını, sağlığını, armorunu görürsünüz (F8 basarak). Ayrıca mermi, can ve armorunu fullemektedir.
-- /clearMyPeds -> <i>"/clearMyPeds"</i> yazarak çıkardığınız koruyucu pedleri silersiniz.
-- /clearEnemyPeds -> <i>"/clearEnemyPeds"</i> yazarak çıkardığınız enemy pedleri silersiniz.
+- <b><i>/enemy</b></i> -> <i>"/enemy"</i> yazarak bir düşman ped çıkartırsınız.
+- <b><i>/mypeds</b></i> -> <i>"/mypeds"</i> yazarsanız koruyucu pedlerinizin sayısını, sağlığını, armorunu görürsünüz (F8 basarak). Ayrıca mermi, can ve armorunu fullemektedir.
+- <b><i>/clearMyPeds</b></i> -> <i>"/clearMyPeds"</i> yazarak çıkardığınız koruyucu pedleri silersiniz.
+- <b><i>/clearEnemyPeds</b></i> -> <i>"/clearEnemyPeds"</i> yazarak çıkardığınız enemy pedleri silersiniz.
 
 Not: Yazmış olduğum kodun build edilmiş haline inanmayan veya güvenmeyen kişiler içinde sourcecode içinde c# kodunu paylaşmış bulunmaktayım. O dosyayı indirip build edip direkt olarak sunucuya atıp scripti çalıştırabilirler. Fakat CitizenFX.Core kütüphanesini eklemeniz gerekmektedir.
 
