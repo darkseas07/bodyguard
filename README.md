@@ -15,7 +15,7 @@ Not: Yazmış olduğum kodun build edilmiş haline inanmayan veya güvenmeyen ki
 <b>[EN]</b> <br/>
 - <b><i>/bodyguard</b></i> -> <i>"/bodyguard"</i> you make yourself a protective ped. If you aim at a ped/player and press the <i>"X"</i> key, it will attack that person. If you press the <i>"H" key</i>, it will stop attacking. Maximum each player can make 7 protective peds. Since after 7 is not included in your group, the maximum group number can be 7.
 - <b><i>/enemy</b></i> -> <i>"/enemy"</i> you create an enemy ped.
-- <b><i>/mypeds</b></i> -> If you type <i>"/mypeds"<i> you will see the number, health, armor of your peds (by pressing F8). It also maximizes bullets, health and armor.
+- <b><i>/mypeds</b></i> -> If you type <i>"/mypeds"</i> you will see the number, health, armor of your peds (by pressing F8). It also maximizes bullets, health and armor.
 - <b><i>/clearMyPeds</b></i> -> By typing <i>"/clearMyPeds"</i> you delete the protective peds you created.
 - <b><i>/clearEnemyPeds</b></i> -> By typing <i>"/clearEnemyPeds"</i> you delete the enemy peds you created.
 
